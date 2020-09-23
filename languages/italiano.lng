@@ -1,0 +1,75 @@
+#ADVAPI 2 - Language "Italiano"
+#Tutte le righe che cominciano per "#" e/o sono vuote sono ignorate!
+
+#Definizione di Yes/No
+1.Si
+2.No
+
+#Definizione degli errori
+3.Errore!
+4.Impossibile aprire il file selezionato!
+
+#Definizione delle domande
+5.Il file selezionato non è stato riconosciuto\nSeleziona si se si vuole aprirlo come file di testo.
+6.Impossibile riconoscere il file
+
+#definizione caricamento
+7.Caricamento ed elaborazione del file...
+
+#Altre Definizioni
+8.Dichiarazioni
+9.Costanti
+10.Tipi
+11.Nome
+12.Libreria
+13.Tipo Restituito
+14.Parametri
+15.Valore
+16.Public
+
+#Definizione Pulasnti di Aggiunta/Rimozione
+17.Aggiungi 
+18.Aggiungi tutto
+19.Rimuovi  
+20.Rimuovi tutto
+21.Verifica dipendenze
+
+#Definizione dei menù
+22.&File
+23.&Apri...
+24.&Chiudi
+25.Apri &ultimo file
+26.E&sci
+27.&Modifica
+28.&Taglia
+29.&Copia
+30.&Incolla
+31.&Opzioni
+32.&Converti file
+33.&File Corrente
+34.&Seleziona file
+35.Seleziona Linguaggio
+36.&Cerca
+37.&Trova
+38.Trova Successivo
+39.&Sostituisci
+40.&Info
+
+#Definizione dei commenti della barra degli strumenti
+41.Apre un nuovo file...
+42.Chiude file corrente
+43.Taglia gli elementi selezionati
+44.Copia gli elementi selezionati
+45.Incolla il testo in Visual Basic
+46.Trova un elemento
+47.Informazioni su ADVAPI 2
+
+#Ricerca
+48.Nessun elemento trovato!
+49.Ricerca completata!
+50.Attenzione! Il database non è stato riconosciuo come valido! Seleziona:\n\t'SI' Per tentare di aprire il database come database di ADVAPI2.\n\t'NO' Per tentare di aprire il database come database di APIVIEW.\n\t'ANNULLA' per usicre e ignorare il database corrente.
+
+#Caricamento Daatbase
+51.Caricamento costanti dal database...
+52.Caricamento tipi dal database...
+53.Caricamento dichiarazioni dal database...

@@ -1,0 +1,76 @@
+#ADVAPI 2 - Language "English"
+#All the lines empty or that starts with a "#" are ignored.
+
+#Yes/No
+1.Yes
+2.No
+
+#Errors
+3.Error!
+4.Unable to open selected file!
+
+#Questions
+5.Please, select yes if you want to open\nselected file as a text file.
+6.Unable to determine type of file
+
+#Loading
+7.Loading and elaborating file...
+
+#Misc
+8.Declarations
+9.Constants
+10.Types
+11.Name
+12.Lib.
+13.Return Type
+14.Parameters
+15.Value
+16.Public
+
+
+#Add/Remove Buttons
+17.Add   
+18.Add All
+19.Remove 
+20.Remove All
+21.Dependencies Check
+
+#Menus
+22.&File
+23.&Open...
+24.&Close
+25.Open &last file
+26.E&xit
+27.&Edit
+28.Cu&t
+29.&Copy
+30.Pa&ste
+31.&Options
+32.&Convert file
+33.&Current file
+34.&Select file
+35.Select Language
+36.&Search
+37.&Find
+38.Find Ne&xt
+39.&Replace
+40.&About
+
+#ToolBar comments
+41.Open a new file...
+42.Close current file
+43.Cut selected items
+44.Copy selected items
+45.Paste current text into Visual Basic
+46.Find text
+47.About
+
+#Search
+48.No items matching your query found!
+49.Search complete!
+50.Warning! Unknown database type! Please select:\n\t'YES' to try opening current database as an ADVAPI 2 database.\n\t'NO' to try opening current database as an APIVIEW database.\n\t'CANCEL' to exit and ignore current database.
+
+#Database loading
+51.Loadind Constants from database...
+52.Loading Types from database...
+53.Loading Declares from database...
